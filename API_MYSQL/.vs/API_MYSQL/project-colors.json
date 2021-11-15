@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b7bcec7-81fc-4d9f-bec4-6540bf6029a7": {
+      "ProjectGuid": "4b7bcec7-81fc-4d9f-bec4-6540bf6029a7",
+      "DisplayName": "API_MYSQL",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
